@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there, Im Denes Mijangos, Full Stack Developer
+---
+## Im Denes, 17, from Mexico
+#### Web Developer, Mobile Developer, DevOps Engineer
 
 <!--
 **denes16/denes16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
